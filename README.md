@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix ONNX GPU inference bug (#6840)
